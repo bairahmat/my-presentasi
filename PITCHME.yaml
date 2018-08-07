@@ -1,21 +1,14 @@
-heme : night
-
-layout : center-right
-
-logo : assets/images/logo.png
-
+theme : night
 theme-override : assets/css/PITCHME.css
-
-transition : none
-
-highlight : ir-black
-
-code-line-numbers : true
-
-charts : true
-
-mathjax : TeX-AMS_HTML-full
-
+logo : assets/images/anak-desa.jpg
+highlight : atom-one-light
+transition : concave
 published : true
-
-footnote : "GitPitch - Contoh Membuat Presentasi Online"
+footnote : "Contoh Presentasi Online"
+remote-control: true
+slide-number : true
+background : /assets/images/wallpaper.jpg
+background-size: cover
+remote-control: true
+slide-number : true
+mousewheel : true
